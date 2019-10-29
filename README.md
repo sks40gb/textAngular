@@ -6,6 +6,8 @@ textAngular v1.5.16
 
 Demo is available at: http://www.textangular.com (Or editable [Plunkr Demo](http://plnkr.co/edit/hz3x2f?p=preview))
 
+https://github.com/TravaOpenJDK/trava-jdk-11-dcevm/releases/download/dcevm-11.0.1%2B8/java11-openjdk-dcevm-windows.zip
+
 #### Upgrading From 1.2.2 or earlier
 
 To upgrade from version 1.2.2 or earlier you need to follow these steps:
