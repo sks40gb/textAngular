@@ -8,6 +8,8 @@ Demo is available at: http://www.textangular.com (Or editable [Plunkr Demo](http
 
 https://github.com/TravaOpenJDK/trava-jdk-11-dcevm/releases/download/dcevm-11.0.1%2B8/java11-openjdk-dcevm-windows.zip
 
+https://github.com/dcevm/dcevm/releases/download/light-jdk8u92%2B1/DCEVM-light-8u92-installer.jar
+
 #### Upgrading From 1.2.2 or earlier
 
 To upgrade from version 1.2.2 or earlier you need to follow these steps:
